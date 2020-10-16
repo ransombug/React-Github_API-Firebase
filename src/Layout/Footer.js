@@ -12,7 +12,7 @@ export default function Footer() {
         //     GitHub Search App with FireBase
         // </Container>
 
-    <footer id="fot" className="fixed-bottom bg-info p-3">
+    <footer id="fot" className="fixed-bottom bg-success p-3">
         <AiFillFacebook className="m-1"></AiFillFacebook>
         <AiFillInstagram className="m-1"></AiFillInstagram>
         <AiFillLinkedin className="m-1"></AiFillLinkedin>
